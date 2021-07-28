@@ -1,6 +1,10 @@
 # main links
 main:
+  - title: "About"
+    url: /index.html
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "CV"
+    url: /assets/docs/CV_AnaOspina.pdf/
