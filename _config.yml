@@ -103,18 +103,18 @@ analytics:
 author:
   name             : "Ana M. Ospina"
   avatar           : "/assets/images/AnaOspina_photo.jpg"
-  bio              : "Ph.D. Student<br/>
-  Electrical, Computer and Energy Engineering<br/>
-  University of Colorado, Boulder
+  bio              : "**Ph.D. Student**<br/>
+  *Electrical, Computer and Energy Engineering*<br/>
+  University of Colorado, Boulder <br/>
   
-
+  **Email:** ana.ospina@colorado.edu
   "
   location         : 
   email            : 
   links:
-    - label: "ana.ospina@colorado.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ana.ospina@colorado.edu"
+    #- label: "ana.ospina@colorado.edu"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:ana.ospina@colorado.edu"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://ana-ospina.github.io"
@@ -124,7 +124,7 @@ author:
     #-  label: "Facebook"
     # icon: "fab fa-fw fa-facebook-square"
     # url: "https://facebook.com/"
-    - label: "ana-ospina"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ana-ospina"
     #- label: "Instagram"
@@ -133,6 +133,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AmUr3CcAAAAJ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ana-ma-ospina/"
 
 
 # Site Footer
