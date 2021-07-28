@@ -25,7 +25,7 @@ url                      : "https://ana-ospina.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ana-ospina/ana-ospina.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # "/assets/images/AnaOspina_photo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "AnaOspinaS"
 facebook:
   username               :
   app_id                 :
@@ -102,29 +102,38 @@ analytics:
 # Site Author
 author:
   name             : "Ana M. Ospina"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student"
-  location         : "Somewhere"
-  email            :
+  avatar           : "/assets/images/AnaOspina_photo.jpg"
+  bio              : "Ph.D. Student<br/>
+  Electrical, Computer and Energy Engineering<br/>
+  University of Colorado, Boulder
+  
+
+  "
+  location         : 
+  email            : 
   links:
-    - label: "Email"
+    - label: "ana.ospina@colorado.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: "mailto:ana.ospina@colorado.edu"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://ana-ospina.github.io"
+    #- label: "Twitter"
+    # icon: "fab fa-fw fa-twitter-square"
+    # url: "https://twitter.com/"
+    #-  label: "Facebook"
+    # icon: "fab fa-fw fa-facebook-square"
+    # url: "https://facebook.com/"
+    - label: "ana-ospina"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ana-ospina"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AmUr3CcAAAAJ"
+
 
 # Site Footer
 footer:
