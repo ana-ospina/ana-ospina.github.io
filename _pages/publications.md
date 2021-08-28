@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Preprint
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
@@ -15,13 +16,13 @@ Approach and Online Algorithms](https://arxiv.org/pdf/2006.16346.pdf). *IEEE Tra
 **A. M. Ospina**, A. Simonetto and E. Dall’Anese. [Time-Varying Optimization of Networked Systems with Human Preferences](https://arxiv.org/pdf/2103.13470.pdf). *IEEE Trans. on Control of Network Systems*, submitted March
 2021, under review. 
 
-
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina** and N. Quijano. [Distributed Control of Small-Scale Power Systems using Noncooperative Games](https://www.sciencedirect.com/science/article/pii/S0142061516305932). *International Journal of Electrical Power and Energy Systems*. April, 2016. Vol. 82, pp. 535-544.
 
-
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Conferences
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
