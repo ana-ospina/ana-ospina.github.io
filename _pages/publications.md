@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
-#### Preprint
+#### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina**, K. Baker and E. Dall’Anese. [Estimation of Power System Sensitivities: Low-rank
@@ -17,13 +17,13 @@ Approach and Online Algorithms](https://arxiv.org/pdf/2006.16346.pdf). *IEEE Tra
 2021, under review. 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
-#### Journals
+#### Journals articles
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina** and N. Quijano. [Distributed Control of Small-Scale Power Systems using Noncooperative Games](https://www.sciencedirect.com/science/article/pii/S0142061516305932). *International Journal of Electrical Power and Energy Systems*. April, 2016. Vol. 82, pp. 535-544.
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
-#### Conferences
+#### Conferences proceedings
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina**, A. Simonetto and E. Dall’Anese. [Personalized Demand Response via Shape-Constrained Online Learning](https://ieeexplore.ieee.org/document/9303020). *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)* (IEEE SmartGridComm’20). November 11-13, 2020. Virtual Conference.
