@@ -35,4 +35,4 @@ Approach and Online Algorithms,"](https://arxiv.org/pdf/2006.16346.pdf) *IEEE Tr
 **A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Personalized Demand Response via Shape-Constrained Online Learning,"](https://ieeexplore.ieee.org/document/9303020) *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)* (IEEE SmartGridComm’20) November 11-13, 2020. Virtual Conference.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina** and M. Kezunovic. ["A Data-Driven Framework for Optimal Placement of GridConnected Solar Generation,"](https://ieeexplore.ieee.org/document/8974128?signout=success) *2019 IEEE Power & Energy Society General Meeting*. August 4-8, 2019. Atlanta, GA USA.
+**A. M. Ospina** and M. Kezunovic. ["A Data-Driven Framework for Optimal Placement of Grid-Connected Solar Generation,"](https://ieeexplore.ieee.org/document/8974128?signout=success) *2019 IEEE Power & Energy Society General Meeting*. August 4-8, 2019. Atlanta, GA USA.
