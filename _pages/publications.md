@@ -9,18 +9,17 @@ author_profile: false
 #### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, Y. Chen, A. Bernstein and E. Dall'Anese. "Learning-Based Demand Response in Grid-Interactive Buildings via Gaussian Processes," *XXII Power System Computation Conference*, submitted October 2021, under review.
+**A. M. Ospina**, Y. Chen, A. Bernstein and E. Dall'Anese. "Learning-Based Demand Response in Grid-Interactive Buildings via Gaussian Processes," submitted October 2021, under review.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, N. Bastianello and E. Dall'Anese. ["Data-based Online Optimization of Network Systems with Infrequent Feedback,"](https://arxiv.org/pdf/2109.06343.pdf) *IEEE Control Systems Letters*, submitted September 2021, under review.
+**A. M. Ospina**, N. Bastianello and E. Dall'Anese. ["Data-based Online Optimization of Network Systems with Infrequent Feedback,"](https://arxiv.org/pdf/2109.06343.pdf) submitted September 2021, under review.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina**, K. Baker and E. Dall’Anese. ["Estimation of Power System Sensitivities: Low-rank
-Approach and Online Algorithms,"](https://arxiv.org/pdf/2006.16346.pdf) *IEEE Trans. on Power Systems*, submitted May 2021, under review.
+Approach and Online Algorithms,"](https://arxiv.org/pdf/2006.16346.pdf) submitted May 2021, under review.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Time-Varying Optimization of Networked Systems with Human Preferences,"](https://arxiv.org/pdf/2103.13470.pdf) *IEEE Trans. on Control of Network Systems*, submitted March
-2021, under review. 
+**A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Time-Varying Optimization of Networked Systems with Human Preferences,"](https://arxiv.org/pdf/2103.13470.pdf) submitted March 2021, under review. 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
