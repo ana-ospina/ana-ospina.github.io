@@ -12,7 +12,7 @@ author_profile: false
 **A. M. Ospina**, Y. Chen, A. Bernstein and E. Dall'Anese. "Learning-Based Demand Response in Grid-Interactive Buildings via Gaussian Processes," submitted October 2021, under review.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, N. Bastianello and E. Dall'Anese. ["Feedback-Based Optimization with Sub-Weibull Gradient Errors and Intermittent Updates,"](https://arxiv.org/pdf/2109.06343.pdf) submitted Janury 2022, under review.
+**A. M. Ospina**, N. Bastianello and E. Dall'Anese. ["Feedback-Based Optimization with Sub-Weibull Gradient Errors and Intermittent Updates,"](https://arxiv.org/pdf/2109.06343.pdf) submitted January 2022, under review.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina**, K. Baker and E. Dall’Anese. ["Estimation of Power System Sensitivities: Low-rank
